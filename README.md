@@ -14,4 +14,4 @@ A graphical user interface (GUI) application for image classification  This appl
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/MariyaSha/ml_gui_app/main/finishedProject/wireframe.png" width=600px>
+<img src="ml_gui_app/starterFiles/Screenshot 1445-06-08 at 1.06.55 AM.png" width=600px>
