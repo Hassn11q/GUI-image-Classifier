@@ -12,4 +12,3 @@ A graphical user interface (GUI) application for image classification  This appl
 - Displays the top prediction and its probability for the uploaded image.
 - Built using TensorFlow, Keras, and Taipy for the GUI.
 
-![Alt text](/Users/hassn-/Desktop/Screenshot 1445-06-08 at 1.06.55 AM.png)
